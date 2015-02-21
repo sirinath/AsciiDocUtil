@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asciidocutil.iml" filepath="$PROJECT_DIR$/.idea/modules/asciidocutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asciidocutil-build.iml" filepath="$PROJECT_DIR$/.idea/modules/asciidocutil-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/.idea/modules/project.iml" filepath="$PROJECT_DIR$/project/.idea/modules/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/.idea/modules/project-build.iml" filepath="$PROJECT_DIR$/project/.idea/modules/project-build.iml" />
+    </modules>
+  </component>
+</project>

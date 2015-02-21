@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.googlecode.scalaconcurrency:scalaconcurrency:0.9.0-2.11:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.scalaconcurrency/scalaconcurrency/jars/scalaconcurrency-0.9.0-2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.scalaconcurrency/scalaconcurrency/docs/scalaconcurrency-0.9.0-2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.scalaconcurrency/scalaconcurrency/srcs/scalaconcurrency-0.9.0-2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

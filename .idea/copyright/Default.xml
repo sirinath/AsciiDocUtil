@@ -1,0 +1,9 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;today.year. The Project (Project Founder, Project Owner, Project Committers, Project Developers and Project Contributors.)&#10;Licensed under:&#10; - the Apache License, Version 2.0 &lt;http://www.apache.org/licenses/LICENSE-2.0&gt; or&#10; - the Academic Free License, Version 3.0 &lt;http://opensource.org/licenses/AFL-3.0&gt; or&#10; - the CeCILL-B Free Software License, Version 1.0 &lt;http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html&gt;, at your option.&#10;This file may not be copied, modified, or distributed except according to those terms.&#10;&#10;Any contribution to the project should comply with terms in all of the above licenses." />
+    <option name="keyword" value="Copyright" />
+    <option name="allowReplaceKeyword" value="" />
+    <option name="myName" value="Default" />
+    <option name="myLocal" value="true" />
+  </copyright>
+</component>

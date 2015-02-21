@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.googlecode.classgenerator:classgenerator:0.7.0-2.11:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.classgenerator/classgenerator/jars/classgenerator-0.7.0-2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.classgenerator/classgenerator/docs/classgenerator-0.7.0-2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.classgenerator/classgenerator/srcs/classgenerator-0.7.0-2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

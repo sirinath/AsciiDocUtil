@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.asciidoctor:asciidoctorj:1.5.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.asciidoctor/asciidoctorj/jars/asciidoctorj-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.asciidoctor/asciidoctorj/docs/asciidoctorj-1.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.asciidoctor/asciidoctorj/srcs/asciidoctorj-1.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
